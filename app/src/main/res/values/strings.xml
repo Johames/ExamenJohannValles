@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ExamenJohannValles</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detalles">Detalles</string>
+    <string name="title_activity_detallep2">Detallep2</string>
+    <string name="title_activity_detallesp3">Detallesp3</string>
+    <string name="title_activity_detallep4">Detallep5</string>
+    <string name="title_activity_detallep5">Detallep5</string>
+    <string name="title_activity_detallep6">Detallep6</string>
+    <string name="title_activity_detallep7">Detallep7</string>
+
+    <string name="titulo1">Jesús de Nasaret</string>
+    <string name="p1">La vida de Jesús desde su nacimiento a su muerte</string>
+    <string name="titulo2">A Prueba de Fuego</string>
+    <string name="p2">La historia de un hombre que lucho hasta el final</string>
+    <string name="titulo3">Dios no Está Muerto</string>
+    <string name="p3">La historia de la fe de un joven</string>
+    <string name="titulo4">La Historia de Jesús</string>
+    <string name="p4">La vida de Jesús para niños</string>
+    <string name="titulo5">La Pasión de Cristo</string>
+    <string name="p5">La pasión, Muerte y Resurrección de Jesús</string>
+    <string name="titulo6">La Última Batalla</string>
+    <string name="p6">Los sucesos que acontecerán en el final de los tiempos</string>
+    <string name="titulo7">Noé</string>
+    <string name="p7">La historia de Noé en el diluvio</string>
+</resources>
